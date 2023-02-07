@@ -1,3 +1,11 @@
+'''Your second task now is to write a Python program to accept a filename from the user and print the extension of that.
+Your Input and Output should look something like this
+
+Input the Filename: abc.py The extension of the file is : 'python'
+'''
+
+
+
 #METHOD 1
 
 filename= input('Input your filename: ')
